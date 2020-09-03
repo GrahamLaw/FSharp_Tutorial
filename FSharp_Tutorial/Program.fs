@@ -5,4 +5,5 @@ open System
 [<EntryPoint>]
 let main argv =
     printfn "Hello World from F#!"
+    printfn "New hello"
     0 // return an integer exit code
